@@ -16,5 +16,7 @@ JavaScript: The programming language used to create dynamic content and interact
 
 # Contact
 Name: Aryan Kumar Mishra
+
 Email: iam.mishraaryan@gmail.com 
+
 Github name: aryannmishra 
